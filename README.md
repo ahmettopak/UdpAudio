@@ -12,9 +12,10 @@ This project is a UDP audio communication application developed using Java and P
  5. Then, run [Sender.java](https://github.com/ahmettopak/UdpAudio/blob/main/src/Sender.java) file.
  6. The communication between the two computers will start
     automatically.
+    
 ## Python Usage
 
-. First, you need two computers with Java installed.
+ 1. First, you need two computers with Java installed.
  2. Make sure that the computers are on the same network.
  3. Download the source code of the project to both computers.
  4. Run [reciever.py](https://github.com/ahmettopak/UdpAudio/blob/main/receiver.py) file first.
