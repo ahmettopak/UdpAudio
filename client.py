@@ -1,7 +1,7 @@
 import socket
 import pyaudio
 
-UDP_IP = "localhost"
+UDP_IP = "192.168.1.5"
 UDP_PORT = 5000
 
 p = pyaudio.PyAudio()
