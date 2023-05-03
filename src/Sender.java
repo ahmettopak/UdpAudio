@@ -5,7 +5,7 @@ import javax.sound.sampled.TargetDataLine;
 import java.io.IOException;
 import java.net.*;
 
-public class Main {
+public class Sender {
     public static void main(String[] args) throws LineUnavailableException, IOException {
 
         AudioFormat format = new AudioFormat(44100, 16, 2, true, false);

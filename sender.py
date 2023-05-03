@@ -2,7 +2,7 @@ import socket
 import pyaudio
 
 # Set up UDP socket
-UDP_IP = "192.168.1.5"  # IP address of the destination host
+UDP_IP = "127.0.0.1"  # IP address of the destination host
 UDP_PORT = 5000  # Port number to use
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
